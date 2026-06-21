@@ -9,7 +9,8 @@ In this project, I analyzed customer churn data to understand why customers leav
 * **Churn Rate:** 26.54% 
 * **Retention Rate:** 73.46% 
 ![Churn Distribution](Customer_Churn%20Distribution.png)
-  *Insight: Approximately 1 in every 4 customers left the service, highlighting the importance of customer retention strategies.*
+
+*Insight: Approximately 1 in every 4 customers left the service, highlighting the importance of customer retention strategies.*
 
 ### Contract Type and Churn 
 Contract type was one of the strongest factors affecting customer churn. 
