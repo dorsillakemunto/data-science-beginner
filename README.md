@@ -29,6 +29,7 @@ Contract type was one of the strongest factors affecting customer churn.
 * **Average Monthly Charges (Churned):** $74.44 
 ![Monthly Charges vs Churn](Monthly%20Charges%20Vs%20Churn.png)
 
+
 *Insight: Customers with higher monthly charges were more likely to leave the service.*
 
 ### Tenure and Churn 
