@@ -21,18 +21,21 @@ Contract type was one of the strongest factors affecting customer churn.
 | **One Year** | 88% | 11% |
 | **Two Year** | 97% | 2% |
 ![Contract Type vs Churn](Contract%20Type%20Vs%20Churn.png)
+
 *Insight: Customers on month-to-month contracts were significantly more likely to churn, while customers on longer contracts showed much higher retention rates.*
 
 ### Monthly Charges and Churn 
 * **Average Monthly Charges (Retained):** $61.26 
 * **Average Monthly Charges (Churned):** $74.44 
 ![Monthly Charges vs Churn](Monthly%20Charges%20Vs%20Churn.png)
+
 *Insight: Customers with higher monthly charges were more likely to leave the service.*
 
 ### Tenure and Churn 
 * **Average Tenure (Retained):** 37.57 months 
 * **Average Tenure (Churned):** 17.98 months 
 ![Tenure vs Churn](Tenure%20Vs%20Churn.png)
+
 *Insight: Newer customers were more likely to churn, while long-term customers were more likely to remain loyal.*
 
 ### Customer Demographics and Churn 
@@ -41,6 +44,7 @@ The demographic analysis showed that gender had little to no influence on churn,
 * **Non-Senior Customers:** ~4,000 stayed | ~1,400 churned. 
 * **Senior Customers:** ~800 stayed | ~600 churned. 
 ![Demographics vs Churn](Demographics%20Vs%20Churn.png)
+
 *Insight: Senior citizens had a higher tendency to churn compared to non-senior customers, suggesting an opportunity for targeted retention efforts.*
 
 ## Key Drivers of Churn 
