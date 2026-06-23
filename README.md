@@ -83,6 +83,3 @@ The machine learning model identified the top 15 variables driving customer chur
 ### Conclusion
 
 This project combined exploratory data analysis, interactive Power BI visuals, and machine learning to identify the factors driving customer churn. The analysis revealed that total charges, tenure, monthly charges, payment method, contract type, internet services, and senior citizen status were among the most important predictors of churn. The Random Forest model achieved nearly 80% accuracy, demonstrating how data-driven insights can help businesses identify at-risk customers and improve retention strategies.
-
-## Conclusion 
-This project combined exploratory data analysis and machine learning to identify the factors driving customer churn. The analysis revealed that contract type, tenure, monthly charges, payment method, internet services, and senior citizen status were among the most important predictors of churn. The Random Forest model achieved nearly 80% accuracy, demonstrating how data-driven insights can help businesses identify at-risk customers and improve retention strategies.
