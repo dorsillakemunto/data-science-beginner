@@ -72,12 +72,17 @@ The machine learning model identified the top 15 variables driving customer chur
 
 *Insight: The Random Forest model achieved the best overall performance, correctly predicting customer churn with nearly 80% accuracy.*
 
-## Business Recommendations 
-* **Contract Incentives:** Encourage customers to move from month-to-month contracts to longer-term plans. 
-* **Onboarding Focus:** Focus retention efforts on new customers during their first few months of service. 
-* **Pricing Reviews:** Review pricing strategies for customers with high monthly charges. 
-* **Targeted Support:** Provide targeted support and engagement for senior customers. 
-* **Proactive Engagement:** Use predictive models to identify and proactively engage customers at risk of churning. 
+### Business Recommendations
+
+* **Contract Incentives:** Encourage customers to move from month-to-month contracts to longer-term plans.
+* **Onboarding Focus:** Focus retention efforts on new customers during their first few months of service to build tenure.
+* **Pricing Reviews:** Review pricing strategies for customers with high monthly and total charges.
+* **Targeted Support:** Provide targeted support and engagement for senior customers.
+* **Proactive Engagement:** Use predictive models to identify and proactively engage customers at risk of churning.
+
+### Conclusion
+
+This project combined exploratory data analysis, interactive Power BI visuals, and machine learning to identify the factors driving customer churn. The analysis revealed that total charges, tenure, monthly charges, payment method, contract type, internet services, and senior citizen status were among the most important predictors of churn. The Random Forest model achieved nearly 80% accuracy, demonstrating how data-driven insights can help businesses identify at-risk customers and improve retention strategies.
 
 ## Conclusion 
 This project combined exploratory data analysis and machine learning to identify the factors driving customer churn. The analysis revealed that contract type, tenure, monthly charges, payment method, internet services, and senior citizen status were among the most important predictors of churn. The Random Forest model achieved nearly 80% accuracy, demonstrating how data-driven insights can help businesses identify at-risk customers and improve retention strategies.
