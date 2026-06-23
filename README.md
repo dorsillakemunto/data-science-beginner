@@ -2,13 +2,13 @@
 
 ## Project Overview 
 In this project, I analyzed customer churn data to understand why customers leave a service and built machine learning models to predict churn. The goal was to identify the main factors driving churn and provide actionable insights to improve customer retention featuring an interactive Power BI dashboard.
-![Power BI Dashboard Overview](Customer_Churn%20Overview-Dashboard.png)
+![Customer Churn Overview Dashboard](Images/Customer%20Churn%20Overview%20Dashboard.png) 
 ## Key Findings 
 
 ### Customer Churn Rate 
-* **Churn Rate:** 26.54% 
-* **Retention Rate:** 73.46% 
-![Churn Distribution](Customer_Churn%20Distribution.png)
+* **Churn Rate:** 26.54% (1,869 customers)
+* **Retention Rate:** 73.46% (5,174 customers)
+![Customer Churn Distribution](Images/Customer%20Churn%20Distribution.png)
 
 *Insight: Approximately 1 in every 4 customers left the service, highlighting the importance of customer retention strategies.*
 
@@ -20,14 +20,14 @@ Contract type was one of the strongest factors affecting customer churn.
 | **Month-to-Month** | 57% | 43% |
 | **One Year** | 88% | 11% |
 | **Two Year** | 97% | 2% |
-![Contract Type vs Churn](Contract%20Type%20Vs%20Churn.png)
+![Contract Type Vs Churn](Images/Contract%20Type%20Vs%20Churn.png)
 
 *Insight: Customers on month-to-month contracts were significantly more likely to churn, while customers on longer contracts showed much higher retention rates.*
 
 ### Monthly Charges and Churn 
 * **Average Monthly Charges (Retained):** $61.26 
 * **Average Monthly Charges (Churned):** $74.44 
-![Monthly Charges vs Churn](Monthly%20Charges%20Vs%20Churn.png)
+![Monthly Charges Vs Churn](Images/Monthly%20Charges%20Vs%20Churn.png)
 
 
 *Insight: Customers with higher monthly charges were more likely to leave the service.*
@@ -35,7 +35,7 @@ Contract type was one of the strongest factors affecting customer churn.
 ### Tenure and Churn 
 * **Average Tenure (Retained):** 37.57 months 
 * **Average Tenure (Churned):** 17.98 months 
-![Tenure vs Churn](Tenure%20Vs%20Churn.png)
+![Tenure Vs Churn](Images/Tenure%20Vs%20Churn.png)
 
 *Insight: Newer customers were more likely to churn, while long-term customers were more likely to remain loyal.*
 
@@ -44,7 +44,7 @@ The demographic analysis showed that gender had little to no influence on churn,
 
 * **Non-Senior Customers:** ~4,000 stayed | ~1,400 churned. 
 * **Senior Customers:** ~800 stayed | ~600 churned. 
-![Demographics vs Churn](Demographics%20Vs%20Churn.png)
+![Demographics Vs Churn](Images/Demographics%20Vs%20Churn.png)
 
 *Insight: Senior citizens had a higher tendency to churn compared to non-senior customers, suggesting an opportunity for targeted retention efforts.*
 
