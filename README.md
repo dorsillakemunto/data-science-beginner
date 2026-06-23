@@ -48,15 +48,15 @@ The demographic analysis showed that gender had little to no influence on churn,
 
 *Insight: Senior citizens had a higher tendency to churn compared to non-senior customers, suggesting an opportunity for targeted retention efforts.*
 
-## Key Drivers of Churn 
-The strongest variables associated with customer churn and most useful for predictive modeling:
-* Internet Service 
-* Payment Method 
-* Monthly Charges 
-* Paperless Billing 
-* Senior Citizen Status 
-* Streaming TV & Movies Subscriptions 
-* Multiple Phone Lines 
+## Key Drivers of Churn
+
+The machine learning model identified the top 15 variables driving customer churn. They can be broken down into three main categories:
+
+* **Financials & Tenure (Strongest):** Total charges, monthly charges, and how long a customer has stayed (`tenure`) completely dominate the model's predictions.
+* **Services & Billing Options (Moderate):** Using Fiber Optic internet, paying via Electronic Check, and contract terms play a major secondary role.
+* **Demographics (Weakest):** Personal details like gender, being a senior citizen, or having dependents have the least predictive power on our list.
+
+![Feature Importance](Images/Feature%20Importance.png)
 
 ## Machine Learning Results 
 
