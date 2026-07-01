@@ -159,4 +159,5 @@ Aspiring Data Analyst passionate about using data to solve business problems and
 
 - GitHub: https://github.com/dorsillakemunto
 - Email: dorsillakemunto@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dorsilla-kemunto/
 
