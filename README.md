@@ -11,6 +11,7 @@ In this project, I analyzed customer churn data to understand why customers leav
 - Pandas
 - NumPy
 - Scikit-learn
+- Seaborn
 - Matplotlib
 - Power BI
 - GitHub
