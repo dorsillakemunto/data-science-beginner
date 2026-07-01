@@ -3,6 +3,35 @@
 ## Project Overview 
 In this project, I analyzed customer churn data to understand why customers leave a service and built machine learning models to predict churn. The goal was to identify the main factors driving churn and provide actionable insights to improve customer retention featuring an interactive Power BI dashboard.
 ![Customer Churn Overview Dashboard](Images/Customer%20Churn%20Overview%20Dashboard.png) 
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Power BI
+- GitHub
+
+##  Dataset
+
+This project uses the **Telco Customer Churn dataset**, which contains customer demographics, account information, services subscribed to, billing details, and churn status.
+
+**Target Variable:** Churn (Yes/No)
+
+##  Project Workflow
+
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Building
+6. Model Evaluation
+7. Power BI Dashboard Creation
+8. Business Insights and Recommendations
+
 ## Key Findings 
 
 ### Customer Churn Rate 
@@ -58,7 +87,15 @@ The machine learning model identified the top 15 variables driving customer chur
 
 ![Feature Importance](Images/Feature%20Importance.png)
 
-## Machine Learning Results 
+##  Machine Learning Models
+
+Two classification models were developed and evaluated to predict customer churn:
+
+- Logistic Regression
+- Random Forest Classifier
+
+Both models were compared using multiple evaluation metrics to determine the best-performing model.
+
 
 ### Logistic Regression 
 * **Accuracy:** 77.64% 
@@ -80,6 +117,43 @@ The machine learning model identified the top 15 variables driving customer chur
 * **Targeted Support:** Provide targeted support and engagement for senior customers.
 * **Proactive Engagement:** Use predictive models to identify and proactively engage customers at risk of churning.
 
+## 📁 Repository Structure
+
+Customer_Churn_Analysis/
+│
+├── Customer_Churn_Analysis.ipynb
+├── README.md
+├── Images/
+│   ├── Customer Churn Overview Dashboard.png
+│   ├── Customer Churn Distribution.png
+│   ├── Contract Type Vs Churn.png
+│   ├── Monthly Charges Vs Churn.png
+│   ├── Tenure Vs Churn.png
+│   ├── Demographics Vs Churn.png
+│   └── Feature Importance.png
+
+
+## Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Machine Learning Classification
+- Model Evaluation and Comparison
+- Business Insights Generation
+- Power BI Dashboard Development
+
 ### Conclusion
 
 This project combined exploratory data analysis, interactive Power BI visuals, and machine learning to identify the factors driving customer churn. The analysis revealed that total charges, tenure, monthly charges, payment method, contract type, internet services, and senior citizen status were among the most important predictors of churn. The Random Forest model achieved nearly 80% accuracy, demonstrating how data-driven insights can help businesses identify at-risk customers and improve retention strategies.
+
+## Author
+
+**Dorsilla Kemunto**
+
+Aspiring Data Analyst passionate about using data to solve business problems and drive decision-making.
+
+- GitHub: https://github.com/dorsillakemunto
+- Email: dorsillakemunto@gmail.com
+
