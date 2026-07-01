@@ -18,7 +18,9 @@ In this project, I analyzed customer churn data to understand why customers leav
 
 ##  Dataset
 
-This project uses the **Telco Customer Churn dataset**, which contains customer demographics, account information, services subscribed to, billing details, and churn status.
+- Source: Kaggle (IBM Sample Dataset)
+- Dataset: Telco Customer Churn
+- File used: WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 **Target Variable:** Churn (Yes/No)
 
